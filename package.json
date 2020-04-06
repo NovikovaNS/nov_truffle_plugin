@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NovikovaNS/nov_truffle_plugin/issues"
   },
-  "homepage": "https://github.com/NovikovaNS/nov_truffle_plugin#readme"
+  "homepage": "https://github.com/NovikovaNS/nov_truffle_plugin#readme",
+  "devDependencies": {
+    "truffle-plugin-hello": "^1.0.1"
+  }
 }
